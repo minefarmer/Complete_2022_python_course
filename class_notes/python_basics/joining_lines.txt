@@ -1,0 +1,8 @@
+        Joining lines
+
+We use them in case of long logical lines.
+We want the code to be alwats visible on the screen.
+Style quide for python code: specified a maximum of 79 characters in a line.
+So, we put \ before the second line.
+
+

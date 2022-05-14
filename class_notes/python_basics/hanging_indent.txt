@@ -1,0 +1,12 @@
+All the line in a paragraph are indented except the first line.
+
+In Python, the opening parenthesis of a parenthesixed statement is the last character of the line, with subsequent lines being indented until the closing parenthesis.
+
+Look at the style guide for more details.
+
+        Indention in a nutshell
+
+In other languages, we use {}
+In python, we use tab or 4 spaces
+We need to be consistant or problems may happen.
+All statements within the same bloct should have the same indention level.
