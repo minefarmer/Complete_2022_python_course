@@ -1,0 +1,7 @@
+            Why do we need variables?
+
+Anything we write in code(software) is processed and stored in the memory(hardware).
+
+The memory addresses are not easy to deal with and remember, as it consists of billions of binary and hexadecimal numbers.
+
+So, in order to reuse a value, we need to have a reference for it.

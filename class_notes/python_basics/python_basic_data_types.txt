@@ -1,0 +1,35 @@
+            Python Basic Data types
+
+Python Variables
+Integers and Float
+Strings
+Booleans
+Printing
+
+
+Data types are the categorization of data items. Data types represent a kind of value which determines what operations can be performed on that data.
+
+Numeric: Any representation of data which has numeric value.
+    Python identifies 3 typed of numbers.
+
+Integer: Positive or negative whole numbers(without a fraction part).
+
+Float: Any real number with a floating-point representation in which a fractional component os denoted by a decimal symbol or scirntefic notation.
+
+Complex number: A number with a real and imaginary component represented as x+yj.x and y are floats and j is-1(square root of -1 called an imaginary number).
+
+Boolean: Data with one of two built-in values True or False. Notice that 'T
+ and 'F' are capital. true and false re not valid and Python will throw an error for them.
+
+Sequence Type: An ordered collection of similair or different data types. Python has the following built-in sequence data types:
+    String: Astring value is a collection of one or more characters put in a single line, double or single quotes.
+
+    List: A list object is an ordered collection of one or more data items, not necessarily of the same type, put in square brackets.
+
+    Tuple: An ordered collection of one or more data items, not necessarily of the same type, put in square brackets.
+
+    Dictionary: An unordered collection of data in a key:value pair form. A collection of such pairs is enclosed i curly brackets. For example:{1:"Steve", 2:"Bill", 3:"Ram", 4:"Fara"}
+
+    type() function: Python has an in-built function type()to ascern the data type of a certain value. For example, enter type(1234) in Python shell it will return <class 'int'>, which means 1234 is an integer value.
+
+    Mutable and Immutable Objects: Stored in a computer's memory for processing. Number values, strings, and tuple are immutable, which means their contents can't be ordered after creation. On the othe hand, collection of items in a List or Dictionary object can be modified. It is possible to add, delete, insert, and rearrange items in a list or dictionary which makes them mutable objects.
