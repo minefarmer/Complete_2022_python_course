@@ -1,0 +1,18 @@
+            String Manipulation
+    String Operations
+ We can add two strings together.
+We can't multiply two strings together,
+We can multiply a string by an interger. The output is the string repeated.
+We can check if a string is within another string, using in opeator.
+
+
+Python has a lot of built-in functions for every data type.
+
+We will know in detail what are functions soon.
+
+For example:
+    chr() = from int to character
+    len() = calculates the length of a string.
+    str() = converts to string
+    ord() = converts to integer
+    

@@ -1,0 +1,37 @@
+            What is a string?
+
+A string is basically a sequence of characters.
+
+Even one character is called a string.
+
+Even an empty string is a string.
+
+Identified by a single or doudle quotation. "", "".
+
+I can us both in the same code, but it is better no to.
+
+
+
+            Quotes in a string
+
+This will throw an syntax error
+        'I'm a programmer'How to avoid the double/single hassle.
+
+I can use special character \
+
+For example:    "I\'m a programmer"
+
+I can use \t
+For example:    "First sentance. \t second sentance"
+
+Special characters
+    \b = backspace
+    \f = new page
+    \n = newline
+    \t = new tab
+
+If I want suppress the special characters.
+Simply, insert r before it.
+
+                R"THis wil not\work"
+                r"nor\nthis"
