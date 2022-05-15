@@ -1,0 +1,29 @@
+            Intergers
+
+The most basic data type, yet one of the most frequently used.
+
+We don't need to declare the type of any variable. Python infers the data type.
+
+For example, when we write ==3, Python will creat a variable called x which will have int as it's datatype.
+
+We can see this by writing type(x).
+
+
+
+            Float
+
+For example, when we write x=3.0, Python will create a variable called x which will have float as it's datatype.
+
+We can see this by writing type(x).
+
+Performing an arithmetic operation between a float and an interger results in a float automatically.
+
+We can use scientific notation (10(x)) as follows x = .4e7
+
+Any number bigger than 1.8 X 10(308) will be treated as infinity.
+
+Any number less than 5.0 X 10(-324) will be tratd as zero.
+
+This is a common issue with floation-point rpresentation. I can dive deeper here.
+
+

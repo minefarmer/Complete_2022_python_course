@@ -5,3 +5,67 @@ Anything we write in code(software) is processed and stored in the memory(hardwa
 The memory addresses are not easy to deal with and remember, as it consists of billions of binary and hexadecimal numbers.
 
 So, in order to reuse a value, we need to have a reference for it.
+
+Variables are just the way we communicate with the memory to fetch the data.
+
+3+4 will be stored in a random memory address that we can not access after that. So, the value will be lost.
+
+x = 3+ 4 will be stored in a random memory address, but we can access it using the reference x.
+
+
+
+            Naming variables
+
+It is good practice to name your variables meaningful names instead of x, y, z.
+
+I can't used Python reserved keywords to name your variables.
+
+For example: if, for, while, and many more.
+You can find the complete list of Python reserved keywords here.
+
+
+Keywordord 	Description
+and	A logical operator
+as	To create an alias
+assert	For debugging
+break	To break out of a loop
+class	To define a class
+continue	To continue to the next iteration of a loop
+def	To define a function
+del	To delete an object
+elif	Used in conditional statements, same as else if
+else	Used in conditional statements
+except	Used with exceptions, what to do when an exception occurs
+False	Boolean value, result of comparison operations
+finally	Used with exceptions, a block of code that will be executed no matter if there is an exception or not
+for	To create a for loop
+from	To import specific parts of a module
+global	To declare a global variable
+if	To make a conditional statement
+import	To import a module
+in	To check if a value is present in a list, tuple, etc.
+is	To test if two variables are equal
+lambda	To create an anonymous function
+None	Represents a null value
+nonlocal	To declare a non-local variable
+not	A logical operator
+or	A logical operator
+pass	A null statement, a statement that will do nothing
+raise	To raise an exception
+return	To exit a function and return a value
+True	Boolean value, result of comparison operations
+try	To make a try...except statement
+while	To create a while loop
+with	Used to simplify exception handling
+yield	To end a function, returns a generator
+
+
+
+            Naming Variables
+
+Python is case-sensitive, so x is differient from X.
+Never use the characters 'l' (lowercase letter el), 'O' (uppercase letter oh), or 'I' (uppercase letter eye) as a single character variable names.
+
+According to the guide, variable names should be lowercase, with words seperated by underscores as necessary to improbe readability.
+
+
