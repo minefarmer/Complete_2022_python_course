@@ -1,5 +1,0 @@
-If we m
-want to write two or more logical lines in one physical line. 
-We put ;  between the logical lines.
-Not frequently used.
-Code readability is preferred over a smaller number of lines.

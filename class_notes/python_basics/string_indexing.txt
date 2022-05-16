@@ -1,0 +1,10 @@
+            Accessing part of a string. 
+As we said before, string is a sequence of characters.
+
+Indexing is done using []
+
+Indexing is zero-based.
+
+We can index using the revrse order, where -1 corresponds to the last character in the string.
+
+If we use an index bigger than the length of the string, an error will be thrown.
